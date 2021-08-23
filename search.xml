@@ -8,7 +8,7 @@
       <link href="/2021/08/22/%E4%BD%A0%E5%A5%BD/"/>
       <url>/2021/08/22/%E4%BD%A0%E5%A5%BD/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://raw.githubusercontent.com/mashiroalice/mashiro/main/1.jpg" alt="1"></p><script>console.error("Error: [hexo-tag-aplayer] Meting support is disabled, cannot resolve the meting tags properly.");</script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://raw.githubusercontent.com/mashiroalice/mashiro/main/1.jpg" alt="1"></p>    <div id="aplayer-HNIokZsH" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="690500092" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
       
       
       
