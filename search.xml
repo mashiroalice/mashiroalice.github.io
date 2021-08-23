@@ -8,7 +8,7 @@
       <link href="/2021/08/22/%E4%BD%A0%E5%A5%BD/"/>
       <url>/2021/08/22/%E4%BD%A0%E5%A5%BD/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://raw.githubusercontent.com/mashiroalice/mashiro/main/1.jpg" alt="1"></p>    <div id="aplayer-HNIokZsH" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="690500092" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="340px" data-preload="none" data-theme="#ad7a86"    ></div>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://raw.githubusercontent.com/mashiroalice/mashiro/main/1.jpg" alt="1"></p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% <span class="keyword">elseif</span> theme.gitalk.enable %&#125;</span><br><span class="line">    &lt;%- partial(<span class="string">&#x27;_partial/comment&#x27;</span>) %&gt;</span><br><span class="line">&#123;% <span class="keyword">endif</span> %&#125;</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
